@@ -11,3 +11,4 @@
 7. [Yahoo Finance](/script/Yahoo%20Finance.ipynb)
 8. [Wander Lust Wine](/script/Wander%20Lust%20Wine.ipynb)
 9. [Bare Foot Buttons](/script/Bare%20Foot%20Buttons.ipynb)
+10. [Beerwulf](/script/Beerwulf.ipynb)
