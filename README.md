@@ -16,3 +16,4 @@
 12. [Steam](/script/Steam.ipynb)
 13. [FastestLaps](/script/FastestLaps.ipynb)
 14. [Flipkart](/script/Flipkart.ipynb)
+15. [Google News](/script/Google%20News.ipynb)
