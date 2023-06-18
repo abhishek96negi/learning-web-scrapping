@@ -8,3 +8,4 @@
 4. [Airbnb](/script/Airbnb.ipynb)
 5. [Youtube](/script/Youtube.py)
 6. [Yell](/script/Yell.ipynb)
+7. [Yahoo Finance](/script/Yahoo%20Finance.ipynb)
