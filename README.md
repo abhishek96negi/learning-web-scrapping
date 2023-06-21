@@ -23,3 +23,4 @@
 15. [Google News](/script/Google%20News.ipynb)
 16. [Hockey](/script/Hockey.ipynb)
 17. [Mozilla Blog](/script/Mozilla%20Blog.ipynb)
+18. [Rei](/script/Rei.ipynb)
